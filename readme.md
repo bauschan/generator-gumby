@@ -6,7 +6,7 @@ Yeoman Generator for Gumby 2 Framework
 
 - Install it (only once): `npm install -g generator-gumby`
 
-- Create a new folder and cd into it: `mkdir foundation-gumby && cd $_`
+- Create a new folder and cd into it: `mkdir gumby && cd $_`
 
 - Run `yo gumby`
 
